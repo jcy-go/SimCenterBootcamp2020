@@ -88,24 +88,27 @@ Introduction to C - Jan 4-8, 2021
   * C: Operations, Conditionals, and Loops
   * C: Functions
 
-* Day 7: More Advanced C
+* Day 7: `More Advanced C <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/C-Day2.pdf>`_
   
   * C: Pointers Review
   * C: Memory Allocation
-  * C: User Defined Datatypes
   * C: File I/O
+  * C: User Defined Datatypes
     
-* Day 8 - `Parallel Programming <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Parallel.pdf>`_
+* Day 8 - `C: Datatypes & C++ <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/C-Day3.pdf>`_
+
+  * Object Oriented Programming
+  * C++
+  * C++ Example
+
+
+* Day 9 - `Parallel Programming <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Parallel.pdf>`_
 
   * Parallel Computers  
   * MessagePassing & MPI
   * Shared Memory & OpenMP
 
-* Day 9 - `C: Datatypes & C++ <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Abstraction.pdf>`_
-
-  * Object Oriented Programming
-  * C++
-
+    
 
 * Day 10 - `DesignSafe & Agave <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Agave.pdf>`_
 
